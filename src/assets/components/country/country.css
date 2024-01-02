@@ -4,3 +4,11 @@
       padding: 15px;
       border-radius: 2px;
 }
+.country-container{
+      display: grid;
+      grid-template-columns: repeat(3,1fr);
+      gap:10px;
+}
+.Visited{
+      background-color: aquamarine;
+}
